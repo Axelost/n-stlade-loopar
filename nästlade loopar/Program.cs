@@ -10,7 +10,7 @@ namespace nästlade_loopar
     {
         static void Main(string[] args)
         {
-            /*
+            
              //övning 1
             for (int i = 0; i < 10; i++)
             {
@@ -129,7 +129,7 @@ namespace nästlade_loopar
                 Console.WriteLine();
 
             } 
-            */
+            
             //övning 7
             for (int i = 0; i < 9; i++)
             {
